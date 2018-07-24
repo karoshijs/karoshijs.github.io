@@ -25,3 +25,4 @@ window.onload=function(){
 		  		point=1;
 	  }
          }
+}
