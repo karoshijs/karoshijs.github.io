@@ -21,7 +21,6 @@ window.onload=function(){
 		   	alert("你是我一生遇见一次的惊喜");
 		   	}else if(point==8){
 		   	alert("还是不喜欢我嘛？");
-		   	}
 		   	window.location.href="end.html";
 		  		point=1;
 	  }
